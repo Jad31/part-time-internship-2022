@@ -27,6 +27,10 @@ src: ./slides/bashroom/organisation.md
 ---
 
 ---
+src: ./slides/bashroom/team.md
+---
+
+---
 src: ./slides/bashroom/market.md
 ---
 

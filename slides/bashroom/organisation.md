@@ -1,7 +1,10 @@
-# Bashroom organisation
+# Bashroom
+
+## Organisation
 
 La société s'organise autour de 4 pôles dont les missions bien distinctes sont les suivantes:
 
-<div class="w-704 relative mt-10">
-    <img src="/secretary.png">
-</div>
+<img class="w-16" src="/secretary.png">
+<img class="w-16" src="/consultation.png">
+<img class="w-16" src="/research.png">
+<img class="w-16" src="/rocket.png">
