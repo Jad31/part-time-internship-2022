@@ -1,6 +1,4 @@
-# Bashroom
-
-## Team
+# Team
 
 <div grid="~ cols-3 gap-2" m="10">
     <img class="w-16" src="/hadrien.jpeg">

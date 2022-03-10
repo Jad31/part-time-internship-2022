@@ -1,6 +1,4 @@
-# Introduction
-
-## Epitech context
+# Epitech context
 
 - 🏫 3rd year part-time internship
 - 🏢 Software comany

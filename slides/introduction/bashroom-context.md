@@ -1,8 +1,6 @@
-# Introduction
-
-## Bashroom context
+# Bashroom context
 
 Bashroom:
 
-- Internship in 2nd year 
+- Internship in 2nd year
 - Freelance before part-time
