@@ -1,6 +1,7 @@
 <template>
   <div class="header p-1">
-    <img class="header-icon" />
+    <img class="logo" src="/logos/bashroom-logo-white.svg" />
+
     <!-- Bashroom Icon -->
 
     <ul class="header-nav">
@@ -18,12 +19,20 @@
 <style>
 .header {
   background: black;
+  display: flex;
+}
+
+.logo {
+  width: 32px;
+  height: 32px;
+  margin: 16px;
 }
 
 .header-nav {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  margin-top: 12px;
 }
 .header-nav li {
   display: block;
