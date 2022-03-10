@@ -10,5 +10,9 @@
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
   },
-  "name": "part-time-internship-2022"
+  "name": "part-time-internship-2022",
+  "devDependencies": {
+    "@iconify-json/fxemoji": "^1.1.1",
+    "@iconify-json/mdi": "^1.1.1"
+  }
 }
