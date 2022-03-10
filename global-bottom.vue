@@ -1,5 +1,5 @@
 <template>
-  <div class="header p-1">
+  <div class="header p-1 text-white">
     <img class="logo" src="/logos/bashroom-logo-white.svg" />
 
     <!-- Bashroom Icon -->
