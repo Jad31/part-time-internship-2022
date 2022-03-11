@@ -7,4 +7,5 @@
     <img class="w-16" src="/alexandre.png">
     <img class="w-16" src="/jerome.jpeg">
     <img class="w-16" src="/jad.jpeg">
+    <img class="w-16" src="/kevin.jpeg">
 </div>
