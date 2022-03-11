@@ -1,11 +1,32 @@
 # Team
 
-<div grid="~ cols-3 gap-2" m="10">
-    <img class="w-16" src="/hadrien.jpeg">
-    <img class="w-16" src="/guillaume.jpeg">
-    <img class="w-16" src="/antoine.png">
-    <img class="w-16" src="/alexandre.png">
-    <img class="w-16" src="/jerome.jpeg">
-    <img class="w-16" src="/jad.jpeg">
-    <img class="w-16" src="/kevin.jpeg">
+<div grid="~ cols-3 gap-2" class="ml-40">
+    <div>
+        <img class="w-16 rounded-2xl" src="/hadrien.jpeg">
+        <span class="text-xs">Hadrien Toma</span>
+    </div>
+    <div>
+        <img class="w-16 rounded-2xl" src="/guillaume.jpeg">
+        <span class="text-xs">Guillaume Mailhol</span>
+    </div>
+    <div>
+        <img class="w-16 rounded-2xl" src="/antoine.png">
+        <span class="text-xs">Antoine Guillo</span>
+    </div>
+    <div>
+        <img class="w-16 rounded-2xl" src="/alexandre.png">
+        <span class="text-xs">Alexandre Fiotti</span>
+    </div>
+    <div>
+        <img class="w-16 rounded-2xl" src="/jerome.jpeg">
+        <span class="text-xs">Jérôme Garcia</span>
+    </div>
+    <div>
+        <img class="w-16 rounded-2xl" src="/jad.jpeg">
+        <span class="text-xs">Jad Chahed</span>
+    </div>
+    <div>
+        <img class="w-16 rounded-2xl" src="/kevin.jpeg">
+        <span class="text-xs">Kevin Colliot</span>
+    </div>
 </div>

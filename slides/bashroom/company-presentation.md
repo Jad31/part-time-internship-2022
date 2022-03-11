@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: /public/logos/bashroom-logo.svg
+image: logos/bashroom-logo.svg
 class: "text-xl font-bold"
 ---
 

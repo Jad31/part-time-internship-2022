@@ -59,6 +59,7 @@ export default {
         "Bashroom",
         "Bashroom",
         "Bashroom",
+        "Bashroom",
         "Mission",
         "Mission",
         "Realisations",
