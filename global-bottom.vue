@@ -2,19 +2,17 @@
   <div class="header p-1 text-white">
     <img class="logo" src="/logos/bashroom-logo-white.svg" />
 
-    <!-- Bashroom Icon -->
-
     <ul class="header-nav">
-      <li @mouseover="mouseenterFunc">Home</li>
-      <li @mouseover="mouseenterFunc">Summary</li>
-      <li @mouseover="mouseenterFunc">Bashroom</li>
-      <li @mouseover="mouseenterFunc">Mission</li>
-      <li @mouseover="mouseenterFunc">Realisations</li>
-      <li @mouseover="mouseenterFunc">Difficulties</li>
-      <li @mouseover="mouseenterFunc">Conclusion</li>
+      <li
+        v-for="name of navOptions"
+        :class="
+          isCurrentPage(name, $slidev.nav.currentPage) ? 'active' : 'not-active'
+        "
+      >
+        {{ name }}
+      </li>
     </ul>
   </div>
-  <span class="target"></span>
 </template>
 <style>
 .header {
@@ -34,6 +32,7 @@
   flex-wrap: wrap;
   margin-top: 12px;
 }
+
 .header-nav li {
   display: block;
   font-size: 20px;
@@ -41,40 +40,49 @@
   padding: 7px 15px;
 }
 
-.target {
-  position: absolute;
-  border-bottom: 4px solid transparent;
-  top: 5px;
-}
-
-.header-nav li,
-.target {
-  transition: all 0.35s ease-in-out;
+.active {
+  color: red;
+  border-bottom: solid red;
 }
 </style>
 <script>
 export default {
   methods: {
-    mouseenterFunc(event) {
-      const eventTarget = event.target;
+    isCurrentPage(name, page) {
+      const mapPageToNavOptions = [
+        "",
+        "Summary",
+        "Introduction",
+        "Introduction",
+        "Bashroom",
+        "Bashroom",
+        "Bashroom",
+        "Bashroom",
+        "Bashroom",
+        "Mission",
+        "Mission",
+        "Realisations",
+        "Difficulties",
+        "Conclusion",
+      ];
 
-      const width = eventTarget.getBoundingClientRect().width;
-      const height = eventTarget.getBoundingClientRect().height;
-      const left = eventTarget.getBoundingClientRect().left;
+      console.log(mapPageToNavOptions[page - 1], page);
 
-      const target = document.querySelector(".target");
-
-      target.style.width = `${width}px`;
-      target.style.height = `${height}px`;
-      target.style.left = `${left}px`;
-      target.style.borderColor = "red";
+      return mapPageToNavOptions[page - 1] === name;
     },
   },
+  data() {
+    return {
+      navOptions: [
+        "Summary",
+        "Introduction",
+        "Bashroom",
+        "Mission",
+        "Realisations",
+        "Difficulties",
+        "Conclusion",
+      ],
+    };
+  },
 };
-
-// function mouseenterFunc() {
-//   if (!this.parentNode.classList.contains("active")) {
-//     // code here
-//   }
-// }
 </script>
