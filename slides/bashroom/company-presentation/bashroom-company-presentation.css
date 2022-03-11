@@ -1,0 +1,8 @@
+[src="./slides/bashroom/company-presentation/bashroom-company-presentation.md"] {
+}
+
+[src="./slides/bashroom/company-presentation/bashroom-company-presentation.md"]
+  > div:last-child {
+    display: block;
+  bottom: 25%;
+}

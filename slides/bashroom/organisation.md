@@ -18,25 +18,25 @@ preload: false
 </div>
 
 <div v-click="4" class="absolute right-115">
-    <img class="w-16" src="/secretary.png">
+    <img class="w-16" src="/icons/secretary.png">
     <span class="ml-2 font-semibold">Office</span>
 </div>
 
 <div v-click="1" class="absolute left-30 mt-30">
-    <img class="w-16" src="/consultation.png">
+    <img class="w-16" src="/icons/consultation.png">
 </div>
 <div v-click="1" class="absolute left-27 mt-46">
     <span class="font-semibold">Consulting</span>
 </div>
 
 <div v-click="2" class="absolute right-115 mt-55">
-    <img class="w-16" src="/research.png">
+    <img class="w-16" src="/icons/research.png">
 </div>
 <div v-click="2" class="absolute right-113 mt-71">
     <span class="font-semibold">Innovation</span>
 </div>
 
 <div v-click="3" class="absolute right-30 mt-30">
-    <img class="w-16" src="/rocket.png">
+    <img class="w-16" src="/icons/rocket.png">
     <span class="ml-2 font-semibold">RnD</span>
 </div>

@@ -96,7 +96,7 @@ export default {
         "Introduction",
         "Bashroom",
         "Mission",
-        "Realisations",
+        "Achievements",
         "Difficulties",
         "Conclusion",
       ],

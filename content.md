@@ -1,0 +1,28 @@
+# Content
+
+- Présentation
+  - Remise en contexte stage
+- Bashroom
+  - Présentation de la société
+  - L’organisation de Bashroom
+  - Outils de Bashroom (Slack, GSuite, gitlab)
+  - Bashroom sur le marché
+- Ma mission
+  - Remise en contexte Bashroom
+  - Ma mission durant ce part-time
+- Réalisations
+  - Yoptorupta
+    - Genetators
+      - Application Generator (Angular, NestJs)
+      - Enumerate generators (contract, guards, routes, uis)
+  - NestJs and Ngrx courses
+  - Leaflet
+  - Slidev
+  - Open Source
+    - Nx
+    - Storybook
+- Difficultées rencontrés
+  - Rythme deux jours par semaine
+- Conclusion
+- What’s next ?
+- End
