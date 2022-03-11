@@ -27,6 +27,10 @@ src: ./slides/bashroom/organisation.md
 ---
 
 ---
+src: ./slides/bashroom/tools.md
+---
+
+---
 src: ./slides/bashroom/team.md
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: intro
 theme: default
-class: "text-center"
+class: text-center
 info: |
   ## Part-time presentation
   Oral presentation of part-time internship 2022
@@ -10,3 +10,4 @@ info: |
 # Oral presentation
 
 Part-time internship
+
