@@ -6,23 +6,33 @@
   - Présentation de la société
   - L’organisation de Bashroom
   - Outils de Bashroom (Slack, GSuite, gitlab)
+  - Technical stack
   - Bashroom sur le marché
 - Ma mission
   - Remise en contexte Bashroom
   - Ma mission durant ce part-time
 - Réalisations
   - Yoptorupta
-    - Genetators
-      - Application Generator (Angular, NestJs)
-      - Enumerate generators (contract, guards, routes, uis)
-  - NestJs and Ngrx courses
-  - Leaflet
+    - Monorepo with Nx
+    - What Yoptoruta is stand for ?
+  - Generators
+    - Schematics and generators
+    - Angular + contract application
+    - NestJs Application
+    - Add routes generator
+    - Guards generator
+    - UI component generator
+  - NestJs and NgRx courses
+  - Geodated visualization
+    - Call of tenders
+    - Leaflet
   - Slidev
   - Open Source
     - Nx
     - Storybook
 - Difficultées rencontrés
   - Rythme deux jours par semaine
+  - Writing issues
 - Conclusion
 - What’s next ?
 - End

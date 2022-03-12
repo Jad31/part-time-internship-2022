@@ -1,0 +1,8 @@
+
+# Schematics and Generators
+
+<img class="w-128" src="/schematics.gif">
+
+<!--
+Yes
+-->
