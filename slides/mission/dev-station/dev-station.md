@@ -6,3 +6,8 @@ What is it:
 - Close as possible to production environment
 - Same tools for development or production environment
 - Fully automated
+
+<!--
+Lot of bash script to write for automation
+Dependencies installation and grade also scripted and automated
+-->
