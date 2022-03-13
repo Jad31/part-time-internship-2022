@@ -1,3 +1,6 @@
+---
+hideInToc: true
+---
 # How we used Keycloak
 
 - Social login with Google

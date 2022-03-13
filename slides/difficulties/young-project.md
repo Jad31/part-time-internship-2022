@@ -1,3 +1,6 @@
+---
+hideInToc: true
+---
 # Young Project
 
 - Working with software

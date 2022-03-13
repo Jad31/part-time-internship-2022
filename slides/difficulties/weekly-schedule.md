@@ -1,3 +1,6 @@
+---
+hideInToc: true
+---
 # Weekly Schedule
 
 - 3 days for Epitech

@@ -1,3 +1,6 @@
+---
+hideInToc: true
+---
 # Observability
 
 Is everything working fine ?

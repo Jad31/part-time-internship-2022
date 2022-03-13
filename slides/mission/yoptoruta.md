@@ -1,3 +1,6 @@
+---
+hideInToc: true
+---
 # The project: Yoptoruta
 
 ---

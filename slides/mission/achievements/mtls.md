@@ -1,3 +1,6 @@
+---
+hideInToc: true
+---
 # Mutal TLS
 
 Service to service security

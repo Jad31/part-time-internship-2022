@@ -2,6 +2,7 @@
 layout: image-right
 image: logos/bashroom-logo.svg
 class: "text-xl font-bold"
+title: Bashroom
 ---
 
 # Company presentation

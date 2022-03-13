@@ -1,3 +1,6 @@
+---
+hideInToc: true
+---
 # Kubernetes Operator
 
 - Extend the Kubernetes API

@@ -1,3 +1,6 @@
+---
+hideInToc: true
+---
 # Kubernetes Tooling
 
 - Kubernetes CLI : ***kubectl***

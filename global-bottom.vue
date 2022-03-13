@@ -56,10 +56,10 @@ export default {
         },
         Introduction: {
           min: 3,
-          max: 4,
+          max: 5,
         },
         Bashroom: {
-          min: 5,
+          min: 6,
           max: 10,
         },
         Mission: {
@@ -72,11 +72,11 @@ export default {
         },
         Difficulties: {
           min: 32,
-          max: 34,
+          max: 33,
         },
         Conclusion: {
-          min: 35,
-          max: 35,
+          min: 34,
+          max: 34,
         },
       };
 

@@ -1,3 +1,6 @@
+---
+hideInToc: true
+---
 # Grafana
 
 Grafana is a complete observability stack.

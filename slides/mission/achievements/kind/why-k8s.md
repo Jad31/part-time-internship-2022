@@ -1,3 +1,6 @@
+---
+hideInToc: true
+---
 # Why Kubernetes ?
 
 - Manage and deploy container as ***Pod***

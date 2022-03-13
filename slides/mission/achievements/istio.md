@@ -1,3 +1,6 @@
+---
+hideInToc: true
+---
 # Istio
 
 What is Istio ?

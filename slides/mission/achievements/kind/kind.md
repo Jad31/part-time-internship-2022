@@ -1,3 +1,6 @@
+---
+hideInToc: true
+---
 # Setup of KIND
 
 Kubernetes IN Docker

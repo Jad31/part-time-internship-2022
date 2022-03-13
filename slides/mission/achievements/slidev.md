@@ -1,3 +1,6 @@
+---
+hideInToc: true
+---
 # Slidev
 
 How was this presentation made ?

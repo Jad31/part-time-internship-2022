@@ -39,10 +39,6 @@ src: ./slides/bashroom/market.md
 ---
 
 ---
-src: ./slides/mission/bashroom-context.md
----
-
----
 src: ./slides/mission/my-mission.md
 ---
 

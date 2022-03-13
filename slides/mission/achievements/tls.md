@@ -1,3 +1,6 @@
+---
+hideInToc: true
+---
 # TLS Certificate and HTTPS
 
 Setting up request encryption with HTTPS
