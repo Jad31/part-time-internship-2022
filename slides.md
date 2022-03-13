@@ -139,6 +139,10 @@ src: ./slides/difficulties/rythm.md
 ---
 
 ---
+src: ./slides/difficulties/writing-issues.md
+---
+
+---
 src: ./slides/conclusion/conclusion.md
 ---
 
