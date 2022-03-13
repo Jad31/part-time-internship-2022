@@ -4,8 +4,8 @@ What is kubernetes ?
 
 An open source sotware used to manage production workloads as docker container at scale.
 
-<!-- TODO: Add k8s logo -->
-<!-- TODO: Add google logo -->
+<!-- TODO: Add k8s logo (/guillaume/logos/kubernetes-logo.png) -->
+<!-- TODO: Add google logo /guillaume/logos/google-logo.png -->
 
 <!--
 Google open-sourced the Kubernetes project in 2014.

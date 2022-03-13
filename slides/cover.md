@@ -13,6 +13,6 @@ Part-time internship
 
 <div class="mb-5"></div>
 
-## Jad Chahed
+## Guillaume Mailhol
 
 <div class="py-20"></div>

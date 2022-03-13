@@ -6,7 +6,7 @@ Kubernetes IN Docker
 - Run Kubernetes as a production server
 - Local DNS on ***dev-station***
 
-<!-- TODO: Add k8s logo -->
+<!-- TODO: Add k8s logo (/guillaume/logos/kubernetes-logo.png) -->
 
 <!--
 using docker to abstract the os layer

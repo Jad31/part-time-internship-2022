@@ -7,8 +7,8 @@
 
 <!--
 TODO: add kubectl screenshot
-TODO: add k9s screen shot / add k9s logo
-TODO: add Helm Chart screen shot / add Helm logo
+TODO: add k9s screen shot / add k9s  (/guillaume/logos/k9s-logo.png)
+TODO: add Helm Chart screen shot / add Helm logo (/guillaume/logos/helm-logo.png)
 -->
 
 <!--

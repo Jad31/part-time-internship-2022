@@ -1,0 +1,1 @@
+# Angular deployment with Minio and Istio

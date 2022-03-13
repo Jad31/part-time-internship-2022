@@ -5,7 +5,7 @@
 - Setup alerts based on metrics
 
 <!--
-TODO: add Prometheus logo
+TODO: add Prometheus logo (/guillaume/logos/prometheus-logo.png)
 -->
 
 <!--

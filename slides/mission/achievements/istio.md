@@ -10,7 +10,7 @@ What is Istio ?
 - Metrics
 
 <!--
-TODO: add Istio logo
+TODO: add Istio logo (/guillaume/logos/istio-logo.png)
 -->
 
 <!--

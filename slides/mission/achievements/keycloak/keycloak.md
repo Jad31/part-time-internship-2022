@@ -5,8 +5,8 @@ What is Keycloak ?
 ![Keycloak Features](/guillaume/keycloak-features.PNG)
 
 <!--
-TODO: add keycloak logo
-TODO: add redhat logo
+TODO: add keycloak logo (/guillaume/logos/keycloak-logo.png)
+TODO: add redhat logo (/guillaume/logos/red-hat-logo.png)
 -->
 
 <!--
