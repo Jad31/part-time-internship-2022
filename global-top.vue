@@ -1,9 +1,11 @@
 <template>
   <footer class="footer absolute bottom-0 left-0 right-0 padding-4">
     <span class="footer-tutor text-white">Intership Tutor: Hadrien Toma</span>
-    <span class="footer-copyright">Copyright © Bashroom</span>
+    <span class="footer-copyright text-white">Copyright © Bashroom</span>
     <div class="footer-author">
-      <span class="footer-author-name">Jad Chahed - Epitech 2024</span>
+      <span class="footer-author-name text-white"
+        >Jad Chahed - Epitech 2024</span
+      >
       <img class="footer-author-icon" src="/logos/epitech-logo.png" />
     </div>
   </footer>
