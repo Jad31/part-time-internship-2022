@@ -18,15 +18,15 @@
     - K8s factorisation tools(operator, helm chart)
     - Mise en place de Istio
       - Service Mesh
+    - SSL
+    - mTLS
+    - Keycloak
+    - Database (Postgres, Couchdb, EventStoredb)
     - Deployment d'Angular avec Minio et Istio
       - what is Minio
       - CDN
       - Angular host / SPA host with CDN
-    - Keycloak
-    - Database (Postgres, Couchdb, EventStoredb)
-    - SSL
-    - mTLS
-    - Metrics
-      - Grafan
+    - Observability
+      - Grafana
       - Prometheus
     - Slidev
