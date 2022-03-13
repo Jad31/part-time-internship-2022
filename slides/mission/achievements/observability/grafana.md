@@ -4,9 +4,9 @@ Grafana is a complete observability stack.
 
 Monitor and analyze:
 
-- metrics
-- logs
-- traces
+- Grafana Open Source
+- Grafana Loki
+- Grafana Tempo
 
 Dev Station dashboards:
 
