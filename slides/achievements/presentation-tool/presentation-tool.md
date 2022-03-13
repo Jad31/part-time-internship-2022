@@ -1,7 +1,6 @@
+
 # Presentation Tool
 
 <!--
-
-Title in the middle
-
- -->
+Center title middle of page
+-->

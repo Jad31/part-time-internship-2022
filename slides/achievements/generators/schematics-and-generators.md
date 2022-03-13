@@ -4,5 +4,5 @@
 <img class="w-128" src="/schematics.gif">
 
 <!--
-Yes
+Center image in page
 -->
