@@ -10,6 +10,7 @@ Your Own Project TO RUle Them All, one project to find them, one project to brin
 - Upgrade to new standard at low cost
 
 <!--
+Catch-phrase inspired by The Ring from The Lord of the Rings
 A set of tool to help developper to setup and use best pratices.
 - Code generation
 - Pre-defined environment
