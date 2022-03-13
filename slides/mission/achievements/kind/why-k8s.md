@@ -7,7 +7,8 @@
 - Tool for maintenability and scaling.
 
 <!--
-Pod: smallest ressource in k8s
+Pod: smallest ressource in k8s  
 config workload per pods
+
 Metrics: TODO
 -->

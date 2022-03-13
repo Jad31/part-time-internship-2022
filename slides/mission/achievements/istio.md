@@ -14,9 +14,9 @@ TODO: add Istio logo (/guillaume/logos/istio-logo.png)
 -->
 
 <!--
-Open Source
-
-A service mesh is a dedicated infrastructure layer that you can add to your applications. It allows you to transparently add capabilities like observability, traffic management, and security, without adding them to your own code.
+Open Source  
+A service mesh is a dedicated infrastructure layer that you can add to your applications.  
+It allows you to transparently add capabilities like observability, traffic management, and security, without adding them to your own code.
 
 Istio features:
   - Network features:
@@ -27,5 +27,4 @@ Istio features:
   - Security: service-to-service security including authentication, authorization, and encryption.
   - Load balancing
   - Metrics
-Deployed with operator
 -->

@@ -14,5 +14,5 @@ TODO: add Helm Chart screen shot / add Helm logo (/guillaume/logos/helm-logo.png
 <!--
 Factorisation tools:
   - Helm Chart
-    -> Cli with pretemplated ressource
+    - Cli with pretemplated ressource
 -->

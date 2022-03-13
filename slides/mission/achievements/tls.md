@@ -17,7 +17,7 @@ TLS: Transport Layer Security
 
 Why do we want https ?
 
-Encrypte request between server and client to prevent Man In The Middle attack
+Encrypte request between server and client to prevent Man In The Middle attack.  
 And since we wanted to use local domain name some navigator enforce https for specifique domain
 
 Automate certificate issuing:
@@ -25,8 +25,8 @@ Automate certificate issuing:
   - Fully automated every thing
   - Certificate have expiration date so need to reissue them.
 
-Use of local domain prevent TLS certificate issuing since challenge can't be completed.
-Since using public Certificate Authority can't be done, make our own in local.
-Then just trust root certificate of Certificate Authority and all child certificate will be trusted.
-Example: Like DNA, parent certificate can be found with child certificate
+Use of local domain prevent TLS certificate issuing since challenge can't be completed.  
+Since using public Certificate Authority can't be done, make our own in local.  
+Then just trust root certificate of Certificate Authority and all child certificate will be trusted.  
+Example: Like DNA, parent certificate can be found with child certificate.  
 -->
