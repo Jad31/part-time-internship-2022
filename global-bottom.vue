@@ -60,23 +60,23 @@ export default {
         },
         Bashroom: {
           min: 5,
-          max: 10,
+          max: 11,
         },
         Mission: {
-          min: 11,
-          max: 12,
-        },
-        Realisations: {
-          min: 13,
-          max: 13,
-        },
-        Difficulties: {
-          min: 14,
+          min: 12,
           max: 14,
         },
-        Conclusion: {
+        Achievements: {
           min: 15,
-          max: 15,
+          max: 33,
+        },
+        Difficulties: {
+          min: 34,
+          max: 36,
+        },
+        Conclusion: {
+          min: 37,
+          max: 38,
         },
       };
 
