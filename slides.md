@@ -117,3 +117,23 @@ src: ./slides/mission/achievements/observability/prometheus.md
 ---
 src: ./slides/mission/achievements/observability/grafana.md
 ---
+
+---
+src: ./slides/mission/achievements/slidev.md
+---
+
+---
+src: ./slides/difficulties/difficulties.md
+---
+
+---
+src: ./slides/difficulties/weekly-schedule.md
+---
+
+---
+src: ./slides/difficulties/young-project.md
+---
+
+---
+src: ./slides/conclusion/conclusion.md
+---
