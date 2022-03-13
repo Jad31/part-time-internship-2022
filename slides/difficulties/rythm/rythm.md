@@ -1,3 +1,6 @@
+---
+hideInToc: true
+---
 
 # Rhythm of two days per week
 

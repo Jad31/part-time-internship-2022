@@ -2,6 +2,7 @@
 layout: intro
 theme: default
 class: text-center
+hideInToc: true
 ---
 
 # Oral presentation
@@ -15,4 +16,3 @@ Part-time internship
 ## Jad Chahed
 
 <div class="py-20"></div>
-

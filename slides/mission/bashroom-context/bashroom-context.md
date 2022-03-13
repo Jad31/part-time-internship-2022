@@ -1,3 +1,7 @@
+---
+hideInToc: true
+---
+
 # Context
 
 <div class="flex justify-center mt-30">

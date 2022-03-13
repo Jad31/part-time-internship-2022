@@ -1,3 +1,7 @@
+---
+hideInToc: true
+---
+
 # Interventions
 
 <img class="w-48 absolute ml-10 mt-10" src="/logos/capgemini-logo.png">

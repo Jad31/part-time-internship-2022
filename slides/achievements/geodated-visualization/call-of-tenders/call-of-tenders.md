@@ -1,3 +1,7 @@
+---
+hideInToc: true
+---
+
 # Call of tenders
 
 <!--

@@ -1,3 +1,6 @@
+---
+hideInToc: true
+---
 
 # Add Routes
 

@@ -1,3 +1,7 @@
+---
+hideInToc: true
+---
+
 # What's next ?
 
 <!--

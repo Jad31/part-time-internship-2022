@@ -1,3 +1,7 @@
+---
+hideInToc: true
+---
+
 # Team
 
 <div grid="~ cols-3 gap-2" class="ml-40">

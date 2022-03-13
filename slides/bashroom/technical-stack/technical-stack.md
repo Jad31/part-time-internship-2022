@@ -1,1 +1,5 @@
+---
+hideInToc: true
+---
+
 # Technical Stack

@@ -1,6 +1,7 @@
 ---
 layout: image-right
 image: logos/bashroom-logo.svg
+hideInToc: true
 ---
 
 # Company presentation

@@ -1,3 +1,7 @@
+---
+hideInToc: true
+---
+
 # My mission
 
 - Continue to develop the forge of the company

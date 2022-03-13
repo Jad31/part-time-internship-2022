@@ -1,3 +1,7 @@
+---
+hideInToc: true
+---
+
 # Epitech
 
 - 🏫 3rd year part-time internship

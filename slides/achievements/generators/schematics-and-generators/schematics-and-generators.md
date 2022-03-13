@@ -1,3 +1,6 @@
+---
+hideInToc: true
+---
 
 # Schematics and Generators
 

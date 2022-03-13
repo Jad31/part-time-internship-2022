@@ -1,3 +1,7 @@
+---
+hideInToc: true
+---
+
 # Monorepo
 
 <img class="w-16" src="/logos/nx-logo.png">

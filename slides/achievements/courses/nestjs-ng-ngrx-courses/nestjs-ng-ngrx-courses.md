@@ -1,3 +1,7 @@
+---
+hideInToc: true
+---
+
 # NestJs, Angular and NgRx courses
 
 <!--
