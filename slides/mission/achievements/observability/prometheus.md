@@ -4,6 +4,11 @@
 - Store metrics
 - Setup alerts based on metrics
 
+## Integration to Dev Station
+
+- Istio metrics
+- Keycloak metrics
+
 <!--
 TODO: add Prometheus logo (/guillaume/logos/prometheus-logo.png)
 -->
