@@ -64,19 +64,19 @@ export default {
         },
         Mission: {
           min: 11,
-          max: 12,
+          max: 17,
         },
-        Realisations: {
-          min: 13,
-          max: 13,
+        Achievements: {
+          min: 18,
+          max: 30,
         },
         Difficulties: {
-          min: 14,
-          max: 14,
+          min: 31,
+          max: 31,
         },
         Conclusion: {
-          min: 15,
-          max: 15,
+          min: 32,
+          max: 32,
         },
       };
 
@@ -96,7 +96,7 @@ export default {
         "Introduction",
         "Bashroom",
         "Mission",
-        "Realisations",
+        "Achievements",
         "Difficulties",
         "Conclusion",
       ],
