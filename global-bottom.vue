@@ -49,27 +49,44 @@
 export default {
   methods: {
     isCurrentPage(name, page) {
-      const mapPageToNavOptions = [
-        "",
-        "Summary",
-        "Introduction",
-        "Introduction",
-        "Bashroom",
-        "Bashroom",
-        "Bashroom",
-        "Bashroom",
-        "Bashroom",
-        "Bashroom",
-        "Mission",
-        "Mission",
-        "Realisations",
-        "Difficulties",
-        "Conclusion",
-      ];
+      const mapNavOptionsToPage = {
+        Summary: {
+          min: 2,
+          max: 2,
+        },
+        Introduction: {
+          min: 3,
+          max: 4,
+        },
+        Bashroom: {
+          min: 5,
+          max: 10,
+        },
+        Mission: {
+          min: 11,
+          max: 12,
+        },
+        Realisations: {
+          min: 13,
+          max: 13,
+        },
+        Difficulties: {
+          min: 14,
+          max: 14,
+        },
+        Conclusion: {
+          min: 15,
+          max: 15,
+        },
+      };
 
-      console.log(mapPageToNavOptions[page - 1], page);
+      const pageRange = mapNavOptionsToPage[name];
 
-      return mapPageToNavOptions[page - 1] === name;
+      if (!pageRange) {
+        return false;
+      }
+
+      return page >= pageRange.min && page <= pageRange.max;
     },
   },
   data() {
