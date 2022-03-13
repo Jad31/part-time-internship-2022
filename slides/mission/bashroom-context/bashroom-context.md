@@ -10,3 +10,7 @@ hideInToc: true
         <li><fxemoji-desertisland /> Freelance before part-time</li>
     </ul>
 </div>
+
+<!--
+Center tex middle of page
+-->

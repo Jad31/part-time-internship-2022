@@ -10,3 +10,7 @@ hideInToc: true
 - High-end softwares
 - Junior Entreprise Innovante
 - Open-source
+
+<!--
+Center bullet list vertically
+-->
