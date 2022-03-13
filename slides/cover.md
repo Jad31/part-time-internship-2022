@@ -2,6 +2,7 @@
 layout: intro
 theme: default
 class: text-center
+hideInToc: true
 ---
 
 # Oral presentation

@@ -1,5 +1,6 @@
 ---
 clicks: 3
+hideInToc: true
 ---
 
 # Tools

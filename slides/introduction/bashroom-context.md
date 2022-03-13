@@ -1,3 +1,6 @@
+---
+hideInToc: true
+---
 # Bashroom context
 
 <div class="flex justify-center mt-30">
