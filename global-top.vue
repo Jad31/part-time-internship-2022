@@ -1,5 +1,5 @@
 <template>
-  <footer class="footer absolute bottom-0 left-0 right-0 padding-4">
+  <footer class="footer absolute bottom-0 left-0 right-0">
     <span class="footer-tutor text-white">Intership Tutor: Hadrien Toma</span>
     <span class="footer-copyright text-white">Copyright © Bashroom</span>
     <div class="footer-author">
@@ -13,10 +13,12 @@
 
 <style>
 .footer {
+  height: var(--footer-height);
   display: flex;
+  padding-left: 20px;
+  padding-right: 20px;
   justify-content: space-between;
   border-top: solid 2px grey;
-  padding: 16px;
   background-color: black;
 }
 

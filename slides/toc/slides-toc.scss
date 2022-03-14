@@ -1,0 +1,23 @@
+.slidev-toc {
+	height: 100%;
+	display: grid;
+
+	grid-template-columns: 1fr;
+	grid-template-rows: 1fr;
+
+	align-items: center;
+
+	ul {
+		height: fit-content;
+		width: 35rem;
+		margin: 0 auto;
+
+		li {
+			width: max-content;
+		}
+	}
+}
+
+.slidev-toc * {
+	column-count: 2
+}

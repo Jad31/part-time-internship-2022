@@ -1,0 +1,32 @@
+{
+  "recommendations": [
+    "abusaidm.html-snippets",
+    "andersliu.insert-line-number",
+    "angular.ng-template",
+    "bierner.markdown-mermaid",
+    "blodwynn.featurehighlight",
+    "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+    "davidanson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "emeraldwalk.runonsave",
+    "firsttris.vscode-jest-runner",
+    "ghaschel.vscode-angular-html",
+    "jannisx11.batch-rename-extension",
+    "johnpapa.vscode-peacock",
+    "mhutchie.git-graph",
+    "nrwl.angular-console",
+    "oderwat.indent-rainbow",
+    "pkief.material-icon-theme",
+    "redhat.vscode-yaml",
+    "simonsiefke.svg-preview",
+    "streetsidesoftware.code-spell-checker",
+    "stylelint.vscode-stylelint",
+    "tomoyukim.vscode-mermaid-editor",
+    "tyriar.sort-lines",
+    "vangware.dark-plus-material",
+    "wmaurer.change-case",
+    "yzhang.markdown-all-in-one",
+    "zengxingxin.sort-js-object-keys"
+  ]
+}

@@ -1,5 +1,5 @@
 <template>
-  <div class="header p-1 text-white">
+  <div class="header text-white">
     <img class="logo" src="/logos/bashroom-logo-white.svg" />
 
     <ul class="header-nav">
@@ -18,6 +18,7 @@
 .header {
   background: black;
   display: flex;
+  height: var(--header-height) !important;
 }
 
 .logo {

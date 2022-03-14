@@ -1,25 +1,25 @@
 ---
-src: ./slides/cover.md
+src: ./slides/cover/slides-cover.md
 ---
 
 ---
-src: ./slides/toc.md
+src: ./slides/toc/slides-toc.md
 ---
 
 ---
-src: ./slides/introduction/introduction.md
+src: ./slides/introduction/slides-introduction.md
 ---
 
 ---
-src: ./slides/introduction/epitech-context.md
+src: ./slides/introduction/contexts/epitech/slides-introduction-contexts-epitech.md
 ---
 
 ---
-src: ./slides/introduction/bashroom-context.md
+src: ./slides/introduction/contexts/bashroom/slides-introduction-contexts-bashroom.md
 ---
 
 ---
-src: ./slides/bashroom/company-presentation.md
+src: ./slides/bashroom/company-presentation/slides-bashroom-company-presentation.md
 ---
 
 ---

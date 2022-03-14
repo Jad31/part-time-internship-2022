@@ -1,0 +1,153 @@
+{
+	"breadcrumbs.enabled": true,
+	"cSpell.words": [
+        "bashroom",
+        "epitech",
+        "fxemoji",
+        "grafana",
+        "Guillaume",
+        "iconify",
+        "istio",
+        "keycloak",
+        "Mailhol",
+        "mtls",
+        "organisation",
+        "seriph",
+        "setext",
+        "slidev",
+        "yoptoruta"
+	],
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": true
+	},
+	"editor.detectIndentation": false,
+	"editor.formatOnSave": false,
+	"editor.hover.delay": 1000,
+	"editor.insertSpaces": false,
+	"editor.renderWhitespace": "all",
+	"editor.rulers": [
+		150,
+		300
+	],
+	"editor.showFoldingControls": "always",
+	"emeraldwalk.runonsave": {
+		"commands": [
+			{
+				"cmd": "scripts/format/many/index.bash '' '' ${file}",
+				"match": "\\.bash$"
+			},
+			{
+				"cmd": "scripts/format/many/index.bash '' '' ${file}",
+				"match": "\\.css$"
+			},
+			{
+				"cmd": "scripts/format/many/index.bash '' '' ${file}",
+				"match": "\\.html$"
+			},
+			{
+				"cmd": "scripts/format/many/index.bash '' '' ${file}",
+				"match": "\\.js$"
+			},
+			{
+				"cmd": "scripts/format/many/index.bash '' '' ${file}",
+				"match": "\\.json$"
+			},
+			{
+				"cmd": "scripts/format/many/index.bash '' '' ${file}",
+				"match": "\\.md$"
+			},
+			{
+				"cmd": "scripts/format/many/index.bash '' '' ${file}",
+				"match": "\\.mjs$"
+			},
+			{
+				"cmd": "scripts/format/many/index.bash '' '' ${file}",
+				"match": "\\.scss$"
+			},
+			{
+				"cmd": "scripts/format/many/index.bash '' '' ${file}",
+				"match": "\\.ts$"
+			},
+			{
+				"cmd": "scripts/format/many/index.bash '' '' ${file}",
+				"match": "\\.yml$"
+			}
+		]
+	},
+	"files.exclude": {
+		"**/.DS_Store": false,
+		"**/.git": false,
+		"**/.hg": false,
+		"**/.svn": false,
+		"**/CVS": false
+	},
+	"files.trimTrailingWhitespace": true,
+	"files.watcherExclude": {
+		"/.angular/": true,
+		"/.artifacts/": true,
+		"/.git/": true,
+		"/.git/objects/": true,
+		"/.git/subtree-cache/": true,
+		"/dist/": true,
+		"/node_modules/*/**": true
+	},
+	"html.format.enable": false,
+	"javascript.format.enable": false,
+	"js/ts.implicitProjectConfig.experimentalDecorators": true,
+	"material-icon-theme.activeIconPack": "angular_ngrx",
+	"peacock.affectStatusAndTitleBorders": true,
+	"peacock.affectTabActiveBorder": true,
+	"peacock.color": "005599",
+	"peacock.darkForegroundColor": "000000",
+	"peacock.darkenLightenPercentage": 1,
+	"peacock.elementAdjustments": {
+		"activityBar": "none"
+	},
+	"peacock.lightForegroundColor": "ffffff",
+	"scm.defaultViewMode": "tree",
+	"search.exclude": {
+		"**/.git": true,
+		"**/dist": true,
+		"**/node_modules": true,
+		"**/yarn.lock": true
+	},
+	"stylelint.validate": [
+		"scss"
+	],
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.defaultProfile.linux": "zsh",
+	"terminal.integrated.fontFamily": "'Menlo for Powerline', 'Ubuntu Mono', 'Roboto Mono for Powerline', 'PowerlineSymbols', monospace",
+	"terminal.integrated.fontSize": 12,
+	"terminal.integrated.profiles.linux": {
+		"zsh": {
+			"path": "/bin/zsh"
+		}
+	},
+	"terminal.integrated.scrollback": 500000,
+	"typescript.tsdk": "node_modules/typescript/lib",
+	"scss.lint.unknownAtRules": "ignore",
+	"workbench.colorCustomizations": {
+		"activityBar.activeBackground": "#005599",
+		"activityBar.activeBorder": "#ff008e",
+		"activityBar.background": "#005599",
+		"activityBar.foreground": "#ffffff",
+		"activityBar.inactiveForeground": "#ffffff99",
+		"activityBarBadge.background": "#ff008e",
+		"activityBarBadge.foreground": "#ffffff",
+		"sash.hoverBorder": "#005599",
+		"statusBar.background": "#005599",
+		"statusBar.border": "#005599",
+		"statusBar.foreground": "#ffffff",
+		"statusBarItem.hoverBackground": "#0071cc",
+		"statusBarItem.remoteBackground": "#005599",
+		"statusBarItem.remoteForeground": "#ffffff",
+		"tab.activeBorder": "#005599",
+		"titleBar.activeBackground": "#005599",
+		"titleBar.activeForeground": "#ffffff",
+		"titleBar.border": "#005599",
+		"titleBar.inactiveBackground": "#00559999",
+		"titleBar.inactiveForeground": "#ffffff99"
+	},
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.list.horizontalScrolling": true
+}

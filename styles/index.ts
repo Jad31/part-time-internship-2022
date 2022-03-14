@@ -1,1 +1,2 @@
-import "./rotate-arrow.css";
+import "./index.scss";
+

@@ -1,0 +1,98 @@
+:root {
+	--header-height: 4rem;
+	--footer-height: 5rem;
+	--h1-height: 4rem;
+}
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.slidev-layout {
+	height: calc(100% - 4rem - 5rem) !important;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+
+	h1 {
+		margin: 0px;
+		padding: 0px;
+	}
+}
+
+.h1-top-left-ul-centered {
+	display: grid;
+
+	grid-template-columns: 1fr;
+	grid-template-rows: var(--h1-height) 1fr;
+
+	h1 {
+		margin-top: 1rem;
+		margin-left: 1rem;
+	}
+
+	ul {
+		margin: 0 auto;
+		margin-top: calc(var(--h1-height) * -1);
+		display: flex;
+		padding-left: 1rem;
+		padding-right: 1rem;
+		flex-direction: column;
+		justify-content: center;
+	}
+}
+
+.h1-top-left-ul-left-img-right {
+	display: grid;
+
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: var(--h1-height) calc(100% - var(--header-height));
+
+	grid-template-areas:
+		"h1 h1"
+		"ul p";
+
+	h1 {
+		grid-area: h1;
+		margin-top: 1rem;
+		margin-left: 1rem;
+	}
+
+	ul, p {
+		margin: 0 auto;
+	}
+
+	ul {
+		grid-area: ul;
+		padding-left: 1rem;
+		padding-right: 1rem;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+
+	p {
+		grid-area: p;
+		width: 100%;
+		display: flex;
+		text-align: center;
+		justify-content: center;
+
+		img {
+			max-height: 100%;
+			padding: 2rem;
+		}
+	}
+}
+
+.rotate-arrow {
+	transform: rotate(45deg);
+}
+
+@import "../slides/cover/slides-cover.scss";
+@import "../slides/introduction/contexts/bashroom/slides-introduction-contexts-bashroom.scss";
+@import "../slides/introduction/contexts/epitech/slides-introduction-contexts-epitech.scss";
+@import "../slides/introduction/slides-introduction.scss";
+@import "../slides/bashroom/company-presentation/slides-bashroom-company-presentation.scss";
+@import "../slides/toc/slides-toc.scss";

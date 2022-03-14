@@ -1,0 +1,9 @@
+{
+    "default": true,
+    "MD007": { "indent": 4 },
+    "MD041": { "front_matter_title": "^\\s*title\\s*[:=]" },
+    "MD022": { "lines_below": 0, "lines_above": 0 },
+    "MD003": {"style": "atx"},
+    "MD033": { "allowed_elements": ["div", "br", "Toc"] },
+    "no-hard-tabs": false
+}
