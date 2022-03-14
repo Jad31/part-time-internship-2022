@@ -1,5 +1,4 @@
 ---
-clicks: 4
 preload: false
 hideInToc: true
 ---

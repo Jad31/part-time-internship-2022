@@ -17,58 +17,54 @@
 			img:nth-child(1) {
 				width: 7rem;
 			}
-		}
 
-		li:nth-child(1) {
-			top: 5rem;
-
-			img {
-				&[alt="office"] {
-				}
+			&:not(:first-child) {
+				justify-content: flex-end;
 			}
 		}
 
+		//#region    office
+		li:nth-child(1) {
+			top: 5rem;
+		}
+		//#endregion office
+
+		//#region    consulting
 		li:nth-child(2) {
 			top: 22rem;
 			left: -15rem;
 
 			img {
-				&[alt="consulting"] {
-				}
-
 				&[alt="from-office-to-consulting"] {
 					transform: rotate(145deg) scale(0.15, 0.15) translate(-137rem, 104rem);
 				}
 			}
 		}
+		//#endregion consulting
 
+		//#region    innovation
 		li:nth-child(3) {
 			top: 27rem;
 
 			img {
-				&[alt="innovation"] {
-				}
 				&[alt="from-office-to-innovation"] {
 					transform: rotate(90deg) scale(0.15, 0.15) translate(-186rem, 0rem);
 				}
 			}
 		}
+		//#endregion innovation
 
+		//#region    rnd
 		li:nth-child(4) {
 			top: 22rem;
 			right: -15rem;
 
 			img {
-				&[alt="rnd"] {
-				}
 				&[alt="from-office-to-rnd"] {
 					transform: rotate(35deg) scale(0.15, 0.15) translate(-138rem, -102rem);
 				}
 			}
 		}
-
-		li:not(:first-child) {
-			justify-content: flex-end;
-		}
+		//#endregion rnd
 	}
 }

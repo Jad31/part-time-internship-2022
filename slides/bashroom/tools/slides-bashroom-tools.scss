@@ -1,0 +1,21 @@
+[src="./slides/bashroom/tools/slides-bashroom-tools.md"] {
+	display: grid;
+
+	grid-template-columns: 1fr;
+	grid-template-rows: var(--h1-height) 1fr;
+
+	ul {
+		margin: 0 auto;
+		margin-top: calc(var(--h1-height) * -1);
+		margin-left: 5rem;
+		margin-right: 5rem;
+		display: flex;
+		align-items: center;
+		list-style-type: none;
+		gap: 5rem;
+
+		li {
+			flex: 1;
+		}
+	}
+}

@@ -27,11 +27,11 @@ src: ./slides/bashroom/organisation/slides-bashroom-organisation.md
 ---
 
 ---
-src: ./slides/bashroom/tools.md
+src: ./slides/bashroom/tools/slides-bashroom-tools.md
 ---
 
 ---
-src: ./slides/bashroom/team.md
+src: ./slides/bashroom/team/slides-bashroom-team.md
 ---
 
 ---

@@ -1,12 +1,16 @@
 {
 	"breadcrumbs.enabled": true,
 	"cSpell.words": [
+		"alexandre",
 		"bashroom",
+		"endregion",
 		"Entreprise",
 		"epitech",
 		"fxemoji",
 		"grafana",
+		"Gsuite",
 		"Guillaume",
+		"hadrien",
 		"iconify",
 		"Innovante",
 		"istio",
@@ -18,6 +22,7 @@
 		"seriph",
 		"setext",
 		"slidev",
+		"vclick",
 		"yoptoruta"
 	],
 	"editor.codeActionsOnSave": {

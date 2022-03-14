@@ -45,5 +45,6 @@
 
 .footer-author-icon {
   width: 128px;
+  height: max-content;
 }
 </style>

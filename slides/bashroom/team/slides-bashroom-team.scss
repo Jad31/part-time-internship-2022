@@ -1,0 +1,43 @@
+[src="./slides/bashroom/team/slides-bashroom-team.md"] {
+	display: grid;
+
+	grid-template-columns: 1fr;
+	grid-template-rows: var(--h1-height) 1fr;
+
+	ul {
+		margin: 3rem;
+		list-style-type: none;
+		text-align: center;
+
+		display: flex;
+		column-gap: 10rem;
+		row-gap: 3rem;
+		flex-wrap: wrap;
+		align-items: flex-end;
+		justify-content: center;
+
+		li {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			flex-direction: column;
+			margin: 0px;
+			padding: 0px;
+
+			img {
+				height: 4rem;
+				width: 4rem;
+
+				@apply rounded-2xl;
+			}
+		}
+	}
+
+	.slidev-vclick-target {
+		transition: all 500ms ease;
+	}
+
+	.slidev-vclick-hidden {
+		transform: scale(0);
+	}
+}
