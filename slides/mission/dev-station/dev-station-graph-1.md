@@ -3,4 +3,4 @@ hideInToc: true
 ---
 # Dev Station
 
-![Cluster Logic 1](/graph/cluster-logic.drawio-p1.png)
+![Cluster Logic 1](/graph/cluster-logic.drawio-p1.svg)
