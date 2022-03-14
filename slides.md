@@ -23,7 +23,7 @@ src: ./slides/bashroom/company-presentation/slides-bashroom-company-presentation
 ---
 
 ---
-src: ./slides/bashroom/organisation.md
+src: ./slides/bashroom/organisation/slides-bashroom-organisation.md
 ---
 
 ---

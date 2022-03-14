@@ -9,6 +9,19 @@
 	padding: 0px;
 }
 
+@counter-style list-style-type-emoji {
+	system: cyclic;
+	symbols: "\27A1";
+	suffix: " ";
+}
+
+.width-100p-height-100p-margin-0-padding-0 {
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
 .slidev-layout {
 	height: calc(100% - 4rem - 5rem) !important;
 	margin: 0px;
@@ -18,6 +31,12 @@
 	h1 {
 		margin: 0px;
 		padding: 0px;
+		margin-top: 1rem;
+		margin-left: 1rem;
+	}
+
+	ul {
+		list-style-type: list-style-type-emoji;
 	}
 }
 
@@ -26,11 +45,6 @@
 
 	grid-template-columns: 1fr;
 	grid-template-rows: var(--h1-height) 1fr;
-
-	h1 {
-		margin-top: 1rem;
-		margin-left: 1rem;
-	}
 
 	ul {
 		margin: 0 auto;
@@ -55,8 +69,6 @@
 
 	h1 {
 		grid-area: h1;
-		margin-top: 1rem;
-		margin-left: 1rem;
 	}
 
 	ul, p {
@@ -90,9 +102,11 @@
 	transform: rotate(45deg);
 }
 
+
 @import "../slides/cover/slides-cover.scss";
 @import "../slides/introduction/contexts/bashroom/slides-introduction-contexts-bashroom.scss";
 @import "../slides/introduction/contexts/epitech/slides-introduction-contexts-epitech.scss";
 @import "../slides/introduction/slides-introduction.scss";
 @import "../slides/bashroom/company-presentation/slides-bashroom-company-presentation.scss";
+@import "../slides/bashroom/organisation/slides-bashroom-organisation.scss";
 @import "../slides/toc/slides-toc.scss";
