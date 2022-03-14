@@ -1,18 +1,24 @@
 .slidev-toc {
-  height: 100%;
-  display: grid;
+	height: 100%;
+	display: grid;
 
-  grid-template-columns: 1fr;
-  grid-template-rows: 1fr;
+	grid-template-columns: 1fr;
+	grid-template-rows: 1fr;
 
-  align-items: center;
+	align-items: center;
 
-  ul {
-    height: fit-content;
-    margin: 0 auto;
+	ul {
+		list-style-type: upper-roman;
+		height: fit-content;
+		margin: 0 auto;
 
-    li {
-      width: max-content;
-    }
-  }
+		li {
+			width: max-content;
+
+			a {
+				border-bottom-width: 0px;
+				text-decoration: underline;
+			}
+		}
+	}
 }

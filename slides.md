@@ -35,7 +35,7 @@ src: ./slides/bashroom/team/slides-bashroom-team.md
 ---
 
 ---
-src: ./slides/bashroom/market.md
+src: ./slides/bashroom/interventions/slides-bashroom-interventions.md
 ---
 
 ---
@@ -43,7 +43,7 @@ src: ./slides/mission/my-mission.md
 ---
 
 ---
-src: ./slides/mission/yoptoruta.md
+src: ./slides/mission/yoptoruta/slides-mission-yoptoruta.md
 ---
 
 ---

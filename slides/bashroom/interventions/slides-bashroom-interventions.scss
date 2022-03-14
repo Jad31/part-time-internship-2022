@@ -1,0 +1,66 @@
+[src="./slides/bashroom/interventions/slides-bashroom-interventions.md"] {
+	display: grid;
+
+	grid-template-columns: 1fr;
+	grid-template-rows: var(--h1-height) 1fr;
+
+	ul {
+		margin-left: 3rem;
+		margin-right: 3rem;
+		margin-top: calc(var(--h1-height) * -1);
+		list-style-type: none;
+		text-align: center;
+		padding-top: 3rem;
+		padding-bottom: 3rem;
+
+		display: flex;
+		column-gap: 5rem;
+		flex-wrap: wrap;
+		align-items: center;
+		justify-content: center;
+
+		li {
+
+			a {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				flex-direction: column;
+				margin: 0px;
+				padding: 20px;
+				height: 7rem;
+
+				border-width: 1px;
+				border-style: solid;
+				box-shadow: 5px 5px 5px black;
+
+				img {
+					width: 10rem;
+
+					&[alt="logos-capgemini-logo"]{
+					}
+					&[alt="logos-storengy-logo"]{
+					}
+					&[alt="logos-airbus-logo"]{
+						filter: invert(1);
+					}
+					&[alt="logos-maltem-logo"]{
+					}
+					&[alt="logos-ageval-logo"]{
+					}
+					&[alt="logos-supernovaee-logo"]{
+						filter: invert(1);
+					}
+				}
+			}
+		}
+	}
+
+	.slidev-vclick-target {
+		transition: all 250ms ease-in;
+	}
+
+	.slidev-vclick-hidden {
+		transform: scale(0);
+	}
+}
