@@ -1,5 +1,1 @@
----
-hideInToc: true
----
-
 # Introduction

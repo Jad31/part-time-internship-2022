@@ -72,7 +72,7 @@ export default {
           max: 30,
         },
         Difficulties: {
-          min: 32,
+          min: 31,
           max: 33,
         },
         Conclusion: {
