@@ -4,7 +4,7 @@
     <span class="footer-copyright text-white">Copyright © Bashroom</span>
     <div class="footer-author">
       <span class="footer-author-name text-white"
-        >Jad Chahed - Epitech 2024</span
+        >Guillaume Mailhol - Epitech 2024</span
       >
       <img class="footer-author-icon" src="/logos/epitech-logo.png" />
     </div>
