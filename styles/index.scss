@@ -46,6 +46,10 @@
 	ul {
 		list-style-type: list-style-type-emoji;
 	}
+
+	p {
+		margin-left: 1rem;
+	}
 }
 
 .h1-top-left-ul-centered {
@@ -140,3 +144,4 @@
 @import "../slides/bashroom/interventions/slides-bashroom-interventions.scss";
 @import "../slides/mission/yoptoruta/slides-mission-yoptoruta.scss";
 @import "../slides/toc/slides-toc.scss";
+@import "../slides/mission/dev-station/dev-station.scss"

@@ -1,0 +1,19 @@
+[src="./slides/mission/dev-station/dev-station-graph-1.md"],
+[src="./slides/mission/dev-station/dev-station-graph-2.md"],
+[src="./slides/mission/dev-station/dev-station-graph-3.md"] {
+	display: grid;
+
+	grid-template-columns: auto 1fr;
+	grid-template-rows: 100%;
+
+	p {
+		opacity: 1 !important;
+		max-height: 100%;
+	}
+
+	img {
+		padding: 20px;
+		max-height: 100%;
+	}
+
+}
