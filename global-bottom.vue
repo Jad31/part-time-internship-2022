@@ -65,10 +65,10 @@ export default {
         },
         Mission: {
           min: 11,
-          max: 17,
+          max: 16,
         },
         Achievements: {
-          min: 18,
+          min: 17,
           max: 30,
         },
         Difficulties: {

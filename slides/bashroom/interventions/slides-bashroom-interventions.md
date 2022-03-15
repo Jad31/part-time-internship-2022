@@ -13,3 +13,24 @@ hideInToc: true
 - [![logos-supernovaee-logo](https://www.supernovaee.com/assets/svgs/logo-white.37328481-476e-485f-912f-1a2c17248a86.svg)](https://www.supernovaee.com)
 
 </v-click>
+
+<!--
+Although very young, Bashroom has made a name for itself in the IT market thanks to its expertise in
+field of software architecture and development or observation and control of signals and systems.
+
+It offers services such as auditing, consulting, training, support, coaching or
+even the realization of all or part of software solutions.
+
+Thanks to its various services, Bashroom has therefore been able to work in different sectors of activity with
+big names in the industry.
+
+Indeed, she worked at Ageval, leader in the quality software market for medical establishments.
+
+She also worked at Airbus which is a reference international player in the aerospace sector.
+
+Capgemini, world leader in consulting, at the forefront of organizations and
+information systems.
+
+Storengy, a subsidiary of the ENGIE group, world leader in underground storage
+of natural gas.
+-->

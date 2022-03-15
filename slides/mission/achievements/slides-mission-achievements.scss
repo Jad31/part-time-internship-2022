@@ -137,20 +137,3 @@
 		margin-right: 3rem;
 	}
 }
-
-[src="./slides/mission/achievements/observability/observability.md"]{
-	ul {
-		&:not(:last-child) {
-			margin-left: 2rem;
-		}
-
-		&:last-child {
-			list-style-type: none;
-			margin-left: 2rem;
-			display: flex;
-			align-items: center;
-			justify-content: center;
-			flex-direction: column;
-		}
-	}
-}

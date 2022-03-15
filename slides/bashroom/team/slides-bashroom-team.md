@@ -15,3 +15,13 @@ hideInToc: true
 - ![kevin](/kevin.jpeg) Kévin
 
 </v-click>
+
+<!--
+Hadrien TOMA: CEO (Chief Executive Officer) && Internship supervisor
+Jérome Garcia: First permanent contract
+Both doing consulting
+Jad Chahed: Part time internship && freelance
+Antoine GUILLO:  Sandwich courses stand for french alternance
+Alexandre FIOTTI: retraining
+Kévin COLLIOT: retraining
+-->
