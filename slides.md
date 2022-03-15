@@ -63,6 +63,10 @@ src: ./slides/mission/dev-station/graph-3/slides-mission-dev-station-graph-3.md
 ---
 
 ---
+src: ./slides/mission/achievements/stack/stack-1.md
+---
+
+---
 src: ./slides/mission/achievements/kind/k8s.md
 ---
 
@@ -91,7 +95,15 @@ src: ./slides/mission/achievements/mtls/mtls.md
 ---
 
 ---
+src: ./slides/mission/achievements/stack/stack-2.md
+---
+
+---
 src: ./slides/mission/achievements/istio/istio.md
+---
+
+---
+src: ./slides/mission/achievements/stack/stack-3.md
 ---
 
 ---
@@ -100,6 +112,10 @@ src: ./slides/mission/achievements/keycloak/keycloak.md
 
 ---
 src: ./slides/mission/achievements/keycloak/keycloak-use.md
+---
+
+---
+src: ./slides/mission/achievements/stack/stack-4.md
 ---
 
 ---

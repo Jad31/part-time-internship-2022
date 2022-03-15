@@ -69,15 +69,15 @@ export default {
         },
         Achievements: {
           min: 17,
-          max: 30,
+          max: 34,
         },
         Difficulties: {
-          min: 31,
-          max: 33,
+          min: 35,
+          max: 37,
         },
         Conclusion: {
-          min: 34,
-          max: 34,
+          min: 38,
+          max: 38,
         },
       };
 
