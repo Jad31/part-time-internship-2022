@@ -83,15 +83,15 @@ src: ./slides/mission/achievements/k8s-operators.md
 ---
 
 ---
-src: ./slides/mission/achievements/istio.md
----
-
----
 src: ./slides/mission/achievements/tls.md
 ---
 
 ---
 src: ./slides/mission/achievements/mtls.md
+---
+
+---
+src: ./slides/mission/achievements/istio.md
 ---
 
 ---
