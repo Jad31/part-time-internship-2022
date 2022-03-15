@@ -4,5 +4,5 @@ hideInToc: true
 
 # Bashroom context
 
-- 🏫 Internship in 2nd year
+- 🏫 Project with Devfest Toulouse in 1rst year
 - 🏝️ Freelance before part-time
