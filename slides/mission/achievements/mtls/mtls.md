@@ -1,8 +1,9 @@
 ---
 hideInToc: true
 ---
-# Mutal TLS
+
+# Mutual TLS
 
 Service to service security
 
-![Mutal TLS Schema](/guillaume/mutualssl.png)
+- ![Mutual TLS Schema](/guillaume/mutualssl.png)

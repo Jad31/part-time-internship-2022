@@ -1,15 +1,10 @@
 [src="./slides/mission/yoptoruta/slides-mission-yoptoruta.md"] {
-	@extend .h1-top-left-h2-top-centered-ul-centered;
+	@extend .h1-top-left-h2-cartouche-h3-centered-ul-centered;
 
 	h2 {
-		text-align: center;
-		font-size: medium;
-		margin-left: 1rem;
-		margin-right: 1rem;
-		padding-left: 1rem;
-		padding-right: 1rem;
-		border: 1px solid black;
+		@extend .cartouche
+	}
 
-		box-shadow: 3px 3px 2px 1px black;
+	h3 {
 	}
 }

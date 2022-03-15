@@ -1,14 +1,15 @@
 ---
 hideInToc: true
 ---
+
 # Kubernetes
 
-What is kubernetes ?
+What is Kubernetes ?
 
-An open source sotware used to manage production workloads as docker container at scale.
+An open source software used to manage production workloads as docker container at scale.
 
-![k8s logo](/guillaume/logos/kubernetes-logo.png)
-![google logo](/guillaume/logos/google-logo.jpg)
+- ![k8s logo](/guillaume/logos/kubernetes-logo.png)
+- ![google logo](/guillaume/logos/google-logo.jpg)
 
 <!--
 Google open-sourced the Kubernetes project in 2014.

@@ -5,13 +5,13 @@ hideInToc: true
 
 Grafana is a complete observability stack.
 
-Monitor and analyze:
+## Monitor and analyze
 
 - Grafana Open Source
 - Grafana Loki
 - Grafana Tempo
 
-Dev Station dashboards:
+## Dev Station dashboards
 
 - Istio official dashboard
 - Keycloak official dashboard

@@ -39,7 +39,7 @@ src: ./slides/bashroom/interventions/slides-bashroom-interventions.md
 ---
 
 ---
-src: ./slides/mission/my-mission.md
+src: ./slides/mission/slides-mission.md
 ---
 
 ---
@@ -47,19 +47,19 @@ src: ./slides/mission/yoptoruta/slides-mission-yoptoruta.md
 ---
 
 ---
-src: ./slides/mission/dev-station/dev-station.md
+src: ./slides/mission/dev-station/slides-mission-dev-station.md
 ---
 
 ---
-src: ./slides/mission/dev-station/dev-station-graph-1.md
+src: ./slides/mission/dev-station/graph-1/slides-mission-dev-station-graph-1.md
 ---
 
 ---
-src: ./slides/mission/dev-station/dev-station-graph-2.md
+src: ./slides/mission/dev-station/graph-2/slides-mission-dev-station-graph-2.md
 ---
 
 ---
-src: ./slides/mission/dev-station/dev-station-graph-3.md
+src: ./slides/mission/dev-station/graph-3/slides-mission-dev-station-graph-3.md
 ---
 
 ---

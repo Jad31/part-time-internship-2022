@@ -22,6 +22,8 @@
 		li {
 
 			a {
+				@extend .shadowed-bow;
+
 				display: flex;
 				align-items: center;
 				justify-content: center;
@@ -29,10 +31,6 @@
 				margin: 0px;
 				padding: 20px;
 				height: 7rem;
-
-				border-width: 1px;
-				border-style: solid;
-				box-shadow: 5px 5px 5px black;
 
 				img {
 					width: 10rem;

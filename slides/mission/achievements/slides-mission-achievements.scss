@@ -1,0 +1,156 @@
+[src="./slides/mission/achievements/kind/k8s.md"] {
+	ul {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		list-style-type: none;
+
+		img {
+			width: 25rem;
+			height: auto;
+		}
+	}
+}
+
+[src="./slides/mission/achievements/kind/why-k8s.md"] {
+	ul {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+		list-style-type: none;
+
+		margin-top: 4.5rem;
+	}
+}
+
+[src="./slides/mission/achievements/k8s-operators.md"] {
+	ul {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+		list-style-type: none;
+
+		margin-top: 6rem;
+	}
+}
+
+[src="./slides/mission/achievements/mtls/mtls.md"] {
+	ul {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		list-style-type: none;
+
+		img {
+			width: 25rem;
+			height: auto;
+		}
+	}
+}
+
+[src="./slides/mission/achievements/keycloak/keycloak-use.md"] {
+	ul {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+		list-style-type: none;
+
+		margin-top: 6rem;
+	}
+}
+
+[src="./slides/mission/achievements/slidev.md"] {
+	ul {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+		list-style-type: none;
+
+		margin-top: 4rem;
+	}
+}
+
+[src="./slides/difficulties/difficulties.md"] {
+	ul {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+		list-style-type: none;
+
+		margin-top: 7rem;
+	}
+}
+
+[src="./slides/difficulties/weekly-schedule.md"] {
+	ul {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+		list-style-type: none;
+
+		margin-top: 6rem;
+	}
+}
+
+[src="./slides/difficulties/young-project.md"] {
+	ul {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+		list-style-type: none;
+
+		margin-top: 6rem;
+	}
+}
+
+[src="./slides/mission/achievements/observability/grafana.md"]{
+	h1 + p {
+		margin-left: 1rem !important;
+	}
+
+	h2 {
+		margin-top: 0rem !important;
+		margin-left: 1rem !important;
+	}
+
+	ul {
+		list-style-type: none;
+
+		li {
+			margin-left: 4rem;
+		}
+	}
+
+	p img:first-child {
+		margin-right: 13rem;
+	}
+
+	p img:not(:first-child) {
+		margin-top: 1.6rem;
+		margin-right: 3rem;
+	}
+}
+
+[src="./slides/mission/achievements/observability/observability.md"]{
+	ul {
+		&:not(:last-child) {
+			margin-left: 2rem;
+		}
+
+		&:last-child {
+			list-style-type: none;
+			margin-left: 2rem;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			flex-direction: column;
+		}
+	}
+}
