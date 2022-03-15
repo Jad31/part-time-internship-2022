@@ -91,7 +91,7 @@ src: ./slides/mission/achievements/mtls/mtls.md
 ---
 
 ---
-src: ./slides/mission/achievements/istio.md
+src: ./slides/mission/achievements/istio/istio.md
 ---
 
 ---
