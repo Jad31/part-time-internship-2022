@@ -16,10 +16,8 @@ Dev Station dashboards:
 - Istio official dashboard
 - Keycloak official dashboard
 
-<!--
-TODO: add Grafana logo
-TODO: add Grafana screen shot
--->
+![Grafana logo](/guillaume/logos/grafana-logo.png)
+![Grafana screenshot](/guillaume/istio-grafana.png)
 
 <!--
 Grafana is a complete observability stack that allows you to monitor and analyze metrics, logs and traces.

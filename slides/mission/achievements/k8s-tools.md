@@ -8,11 +8,9 @@ hideInToc: true
 - Templated configuration: ***Helm Chart***
 - Operators
 
-<!--
-TODO: add kubectl screenshot
-TODO: add k9s screen shot / add k9s  (/guillaume/logos/k9s-logo.png)
-TODO: add Helm Chart screen shot / add Helm logo (/guillaume/logos/helm-logo.png)
--->
+![kubectl screenshot](/guillaume/kubectl-screen.png)
+![k9s Screenshot](/guillaume/k9s-istio.png)
+![Helm Chart Logo](/guillaume/logos/helm-logo.png)
 
 <!--
 Factorisation tools:

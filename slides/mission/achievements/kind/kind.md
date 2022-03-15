@@ -9,10 +9,11 @@ Kubernetes IN Docker
 - Run Kubernetes as a production server
 - Local DNS on ***dev-station***
 
-<!-- TODO: Add k8s logo (/guillaume/logos/kubernetes-logo.png) -->
+![kind logo](/guillaume/logos/kind-logo.png)
+<!-- TODO: Add kind logo (/guillaume/logos/kubernetes-logo.png) -->
 
 <!--
-using docker to abstract the os layer  
+using docker to abstract the os layer
 work with a real k8s instead of k3d that is a lightweight version of k8s
 
 Repeat: A lot of bash scripts to write

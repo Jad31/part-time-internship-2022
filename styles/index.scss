@@ -132,7 +132,7 @@
 	transform: rotate(45deg);
 }
 
-
+@import "./image.scss";
 @import "../slides/cover/slides-cover.scss";
 @import "../slides/introduction/contexts/bashroom/slides-introduction-contexts-bashroom.scss";
 @import "../slides/introduction/contexts/epitech/slides-introduction-contexts-epitech.scss";
@@ -146,3 +146,4 @@
 @import "../slides/toc/slides-toc.scss";
 @import "../slides/mission/dev-station/dev-station.scss";
 @import "../slides/mission/achievements/mtls/mtls.scss";
+@import "../slides/mission/achievements/istio/istio.scss";
